@@ -1,0 +1,3 @@
+/mnt/e/Huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/Huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/Huffman/cmake-build-debug/CMakeFiles/Huffman.dir

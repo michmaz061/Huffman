@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/Huffman/functions.cpp
+iostream
+-
+string
+-
+fstream
+-
+unordered_map
+-
+queue
+-
+algorithm
+-
+cstring
+-
+head.h
+/mnt/e/Huffman/head.h
+
+/mnt/e/Huffman/head.h
+iostream
+-
+string
+-
+unordered_map
+-
+queue
+-
+
